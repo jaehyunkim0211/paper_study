@@ -18,6 +18,11 @@
 | 08 | XGBoost: A Scalable Tree Boosting System | [papers/08-xgboost.md](./papers/08-xgboost.md) |
 | 09 | LightGBM: A Highly Efficient Gradient Boosting Decision Tree | [papers/09-lightgbm.md](./papers/09-lightgbm.md) |
 | 10 | A Unified Approach to Interpreting Model Predictions — SHAP | [papers/10-shap.md](./papers/10-shap.md) |
+| 11 | Deep Learning | [papers/11-deep-learning.md](./papers/11-deep-learning.md) |
+| 12 | Dropout: A Simple Way to Prevent Neural Networks from Overfitting | [papers/12-dropout.md](./papers/12-dropout.md) |
+| 13 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | [papers/13-batch-normalization.md](./papers/13-batch-normalization.md) |
+| 14 | Deep Residual Learning for Image Recognition — ResNet | [papers/14-resnet.md](./papers/14-resnet.md) |
+| 15 | The Matrix Calculus You Need For Deep Learning | [papers/15-matrix-calculus.md](./papers/15-matrix-calculus.md) |
 
 ## Concepts
 

@@ -23,6 +23,16 @@
 | 13 | Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift | [papers/13-batch-normalization.md](./papers/13-batch-normalization.md) |
 | 14 | Deep Residual Learning for Image Recognition — ResNet | [papers/14-resnet.md](./papers/14-resnet.md) |
 | 15 | The Matrix Calculus You Need For Deep Learning | [papers/15-matrix-calculus.md](./papers/15-matrix-calculus.md) |
+| 16 | Attention Is All You Need | [papers/16-attention-is-all-you-need.md](./papers/16-attention-is-all-you-need.md) |
+| 17 | BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding | [papers/17-bert.md](./papers/17-bert.md) |
+| 18 | Language Models are Few-Shot Learners — GPT-3 | [papers/18-gpt-3.md](./papers/18-gpt-3.md) |
+| 19 | Scaling Laws for Neural Language Models | [papers/19-scaling-laws.md](./papers/19-scaling-laws.md) |
+| 20 | Training Compute-Optimal Large Language Models — Chinchilla | [papers/20-chinchilla.md](./papers/20-chinchilla.md) |
+| 21 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks — RAG | [papers/21-rag.md](./papers/21-rag.md) |
+| 22 | Training Language Models to Follow Instructions with Human Feedback — InstructGPT / RLHF | [papers/22-instructgpt-rlhf.md](./papers/22-instructgpt-rlhf.md) |
+| 23 | LoRA: Low-Rank Adaptation of Large Language Models | [papers/23-lora.md](./papers/23-lora.md) |
+| 24 | LLaMA: Open and Efficient Foundation Language Models | [papers/24-llama.md](./papers/24-llama.md) |
+| 25 | QLoRA: Efficient Finetuning of Quantized LLMs | [papers/25-qlora.md](./papers/25-qlora.md) |
 
 ## Concepts
 

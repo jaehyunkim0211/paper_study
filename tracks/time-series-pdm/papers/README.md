@@ -1,10 +1,20 @@
 # papers
 
-논문별 Markdown 정리 파일입니다.
+time-series-pdm 트랙에서 정리한 논문별 Markdown 파일입니다.
 
-| 번호 | 파일 | 논문명 | 상태 |
-|---:|---|---|---|
-| 1 | `01_box_jenkins_arima.md` | The Box-Jenkins Approach to Time Series Analysis and Forecasting: Principles and Applications | 완료 |
-| 2 | `02_stl_loess.md` | STL: A Seasonal-Trend Decomposition Procedure Based on Loess | 완료 |
+## 목록
 
-다음 예정 논문은 **3편: A New Approach to Linear Filtering and Prediction Problems**입니다.
+| 번호 | 파일 | 주제 |
+|---:|---|---|
+| 1 | `01_box_jenkins_arima.md` | ARIMA / Box-Jenkins |
+| 2 | `02_stl_loess.md` | STL decomposition |
+| 3 | `03_kalman_filter_state_space.md` | Kalman Filter / State Space Models |
+| 4 | `04_dtw_learned_constraints.md` | Dynamic Time Warping / learned constraints |
+| 5 | `05_m4_competition.md` | Forecasting benchmark |
+| 6 | `06_ucr_time_series_archive.md` | Time-series classification benchmark |
+| 7 | `07_time_series_shapelets.md` | Shapelet |
+| 8 | `08_tsfresh.md` | Automated feature extraction |
+| 9 | `09_catch22.md` | 22 canonical time-series features |
+| 10 | `10_boss.md` | Dictionary-based TSC / BOSS |
+| 11 | `11_rocket_minirocket.md` | Random convolution features |
+| 12 | `12_hive_cote_2.md` | Heterogeneous TSC ensemble |

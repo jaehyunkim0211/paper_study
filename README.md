@@ -33,6 +33,29 @@
 | 23 | LoRA: Low-Rank Adaptation of Large Language Models | [papers/23-lora.md](./papers/23-lora.md) |
 | 24 | LLaMA: Open and Efficient Foundation Language Models | [papers/24-llama.md](./papers/24-llama.md) |
 | 25 | QLoRA: Efficient Finetuning of Quantized LLMs | [papers/25-qlora.md](./papers/25-qlora.md) |
+| 26 | Hidden Technical Debt in Machine Learning Systems | [papers/26-hidden-technical-debt.md](./papers/26-hidden-technical-debt.md) |
+| 27 | Deep Neural Networks for YouTube Recommendations | [papers/27-youtube-recommendations.md](./papers/27-youtube-recommendations.md) |
+| 28 | A Survey of Collaborative Filtering Techniques | [papers/28-collaborative-filtering-survey.md](./papers/28-collaborative-filtering-survey.md) |
+| 29 | Data Shapley: Equitable Valuation of Data for Machine Learning | [papers/29-data-shapley.md](./papers/29-data-shapley.md) |
+| 30 | Data Shapley in One Training Run | [papers/30-data-shapley-in-one-training-run.md](./papers/30-data-shapley-in-one-training-run.md) |
+| 31 | Chain-of-Thought Prompting Elicits Reasoning in Large Language Models | [papers/31-chain-of-thought.md](./papers/31-chain-of-thought.md) |
+| 32 | Self-Consistency Improves Chain of Thought Reasoning in Language Models | [papers/32-self-consistency.md](./papers/32-self-consistency.md) |
+| 33 | ReAct: Synergizing Reasoning and Acting in Language Models | [papers/33-react.md](./papers/33-react.md) |
+| 34 | Toolformer: Language Models Can Teach Themselves to Use Tools | [papers/34-toolformer.md](./papers/34-toolformer.md) |
+| 35 | Direct Preference Optimization — DPO | [papers/35-dpo.md](./papers/35-dpo.md) |
+| 36 | Constitutional AI: Harmlessness from AI Feedback | [papers/36-constitutional-ai.md](./papers/36-constitutional-ai.md) |
+| 37 | FlashAttention: Fast and Memory-Efficient Exact Attention with IO-Awareness | [papers/37-flashattention.md](./papers/37-flashattention.md) |
+| 38 | Efficient Memory Management for LLM Serving with PagedAttention — vLLM | [papers/38-pagedattention-vllm.md](./papers/38-pagedattention-vllm.md) |
+| 39 | Mamba: Linear-Time Sequence Modeling with Selective State Spaces | [papers/39-mamba.md](./papers/39-mamba.md) |
+| 40 | Holistic Evaluation of Language Models — HELM | [papers/40-helm.md](./papers/40-helm.md) |
+| 41 | Measuring Massive Multitask Language Understanding — MMLU | [papers/41-mmlu.md](./papers/41-mmlu.md) |
+| 42 | TruthfulQA: Measuring How Models Mimic Human Falsehoods | [papers/42-truthfulqa.md](./papers/42-truthfulqa.md) |
+| 43 | PaLM: Scaling Language Modeling with Pathways | [papers/43-palm.md](./papers/43-palm.md) |
+| 44 | Mixtral of Experts | [papers/44-mixtral.md](./papers/44-mixtral.md) |
+| 45 | DeepSeek-V3 Technical Report | [papers/45-deepseek-v3.md](./papers/45-deepseek-v3.md) |
+| 46 | DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning | [papers/46-deepseek-r1.md](./papers/46-deepseek-r1.md) |
+| 47 | The Llama 3 Herd of Models | [papers/47-llama-3-herd.md](./papers/47-llama-3-herd.md) |
+| 48 | Qwen2.5 Technical Report | [papers/48-qwen2-5.md](./papers/48-qwen2-5.md) |
 
 ## Concepts
 
@@ -48,6 +71,6 @@
 ```bash
 git init
 git add .
-git commit -m "add initial paper reading notes"
+git commit -m "add llm reasoning and modern systems notes"
 ```
 

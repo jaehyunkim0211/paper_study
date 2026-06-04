@@ -43,10 +43,35 @@ study-notes/
 ### Time Series / Predictive Maintenance
 
 - Roadmap 작성 완료
-- 01. Box-Jenkins / ARIMA 완료
-- 02. STL / LOESS 완료
-- Concepts 01–04 완료
-- 다음 논문: Kalman Filter / State Space Models
+- Part 1. 시계열 분석 기본기 완료: 01–05
+  - 01. Box-Jenkins / ARIMA 완료
+  - 02. STL / LOESS 완료
+  - 03. Kalman Filter / State Space Models 완료
+  - 04. Dynamic Time Warping / Learned Constraints 완료
+  - 05. M4 Competition 완료
+- Part 2. 시계열 특징 추출과 전통 ML 완료: 06–12
+  - 06. UCR Time Series Archive 완료
+  - 07. Time Series Shapelets 완료
+  - 08. tsfresh 완료
+  - 09. catch22 완료
+  - 10. BOSS 완료
+  - 11. ROCKET / MiniRocket 완료
+  - 12. HIVE-COTE 2.0 완료
+- Part 3. 딥러닝 기반 시계열 모델 완료: 13–18
+  - 13. Time Series Classification from Scratch with Deep Neural Networks 완료
+  - 14. InceptionTime 완료
+  - 15. Temporal Convolutional Network, TCN 완료
+  - 16. DeepAR 완료
+  - 17. N-BEATS 완료
+  - 18. TimesNet 완료
+- Part 4. Transformer와 시계열 파운데이션 모델 진행 중: 19–23 완료
+  - 19. Informer 완료
+  - 20. Autoformer 완료
+  - 21. FEDformer 완료
+  - 22. PatchTST 완료
+  - 23. TimeGPT-1 완료
+- Concepts 01–27 완료
+- 다음 논문: 24. TimesFM / A Decoder-Only Foundation Model for Time-Series Forecasting
 
 ## How to Use
 
@@ -59,8 +84,8 @@ study-notes/
 ## Git Workflow
 
 ```bash
-git add .
-git commit -m "update study notes"
+git add README.md tracks/time-series-pdm
+git commit -m "update time-series predictive maintenance notes through TimeGPT"
 ```
 
 새 track을 추가할 때는 `tracks/<new-track>/` 아래에 `README.md`, `roadmap.md`, `papers/`, `concepts/` 구조를 만들면 됩니다.
